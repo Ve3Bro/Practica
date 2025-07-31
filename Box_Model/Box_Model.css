@@ -1,0 +1,27 @@
+h1{
+    text-align:center
+}
+.Box_Model{
+    margin-left: 500px;
+}
+.Amarillo{
+    background-color: palegoldenrod;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    display: inline-block;
+}
+.Azul{
+    background-color: paleturquoise;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    display: inline-block;
+}
+.Rojo{
+    background: palevioletred;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    display:inline-block;
+}
